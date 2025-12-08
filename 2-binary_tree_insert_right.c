@@ -5,7 +5,7 @@
  * @parent: pointer to the node to insert the right-child in
  * @value: value store in the new node
  *
- * Return: a pointer to the created node,
+ * Return: Pointer to the created node,
  * or NULL if it failed, or if parent is NULL
  */
 
